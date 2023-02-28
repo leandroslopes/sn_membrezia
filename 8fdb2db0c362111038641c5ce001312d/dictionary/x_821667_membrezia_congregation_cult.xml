@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c1643df8c362111038641c5ce001313b" label="Congregation Cult" max_length="40" name="x_821667_membrezia_congregation_cult" text_index="true" type="collection">
+        <element label="Congregation" max_length="32" name="congregation" reference="x_821667_membrezia_congregation" type="reference"/>
+        <element label="Cult" max_length="32" name="cult" reference="x_821667_membrezia_cult" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="congregation"/>
+        </index>
+        <index name="index2">
+            <element name="cult"/>
+        </index>
+    </element>
+</database>

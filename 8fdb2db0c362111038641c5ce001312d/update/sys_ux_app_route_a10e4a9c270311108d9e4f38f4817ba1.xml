@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Membrezia Config">650e4a9cc70311106daf5b3a044221a2</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>All Dashboards</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>all-dashboards</route_type>
+        <screen_type display_value="All Dashboards">650e4a9ccd031110fe5171fcc8f6cba1</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-05 00:01:36</sys_created_on>
+        <sys_id>a10e4a9c270311108d9e4f38f4817ba1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Dashboards</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_ux_app_route_a10e4a9c270311108d9e4f38f4817ba1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-05 00:01:36</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=a10e4a9c270311108d9e4f38f4817ba1"/>
+</record_update>

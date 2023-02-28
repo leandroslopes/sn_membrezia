@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-12 16:15:24</sys_created_on>
+        <sys_id>dcc6cabcc3a2111038641c5ce0013158</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_821667_membrezia_member.x_821667_membrezia.membrezia_treasurer</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_security_acl display_value="x_821667_membrezia_member">1cc6cabcc3a2111038641c5ce0013155</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dcc6cabcc3a2111038641c5ce0013158</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-12 16:15:24</sys_updated_on>
+        <sys_user_role display_value="x_821667_membrezia.membrezia_treasurer" name="x_821667_membrezia.membrezia_treasurer">17db2db0c362111038641c5ce0013138</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</application>
+        <file_path/>
+        <instance_id>1b8fdf5edb0785109df22f17d4961929</instance_id>
+        <instance_name>dev126595</instance_name>
+        <name>sys_security_acl_role_dcc6cabcc3a2111038641c5ce0013158</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-12 16:15:24</sys_created_on><sys_id>dcc6cabcc3a2111038641c5ce0013158</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_821667_membrezia_member.x_821667_membrezia.membrezia_treasurer</sys_name><sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package><sys_policy/><sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope><sys_security_acl display_value="x_821667_membrezia_member">1cc6cabcc3a2111038641c5ce0013155</sys_security_acl><sys_update_name>sys_security_acl_role_dcc6cabcc3a2111038641c5ce0013158</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-12 16:15:24</sys_updated_on><sys_user_role display_value="x_821667_membrezia.membrezia_treasurer" name="x_821667_membrezia.membrezia_treasurer">17db2db0c362111038641c5ce0013138</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>807180222</payload_hash>
+        <record_name>x_821667_membrezia_member.x_821667_membrezia.membrezia_treasurer</record_name>
+        <reverted_from/>
+        <source>83db2db0c362111038641c5ce0013130</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-12 16:15:24</sys_created_on>
+        <sys_id>1cc6cabcc3a2111038641c5ce001315b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183ccfaad950000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-12 16:15:24</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>54c6cabcc0a211106d0c2a7de7b9ec5b</update_guid>
+        <update_guid_history>54c6cabcc0a211106d0c2a7de7b9ec5b:807180222</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_821667_membrezia_member.x_821667_membrezia.membrezia_treasurer">70e68ebcc3a2111038641c5ce00131f3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-12 16:15:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>3cee8242f6444c0498fe4ec3564b5f10</sys_id>
+        <sys_metadata>dcc6cabcc3a2111038641c5ce0013158</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_821667_membrezia_member.x_821667_membrezia.membrezia_treasurer</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_parent display_value="">1cc6cabcc3a2111038641c5ce0013155</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_scope_delete display_value="">0c4854ac4bfc446b8da4945ba8f34fc9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_dcc6cabcc3a2111038641c5ce0013158</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_dcc6cabcc3a2111038641c5ce0013158">1cc6cabcc3a2111038641c5ce001315b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-12 16:15:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

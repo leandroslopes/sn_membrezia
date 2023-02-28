@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f0280630c3e2111038641c5ce001318a" extends="sys_user" label="Member" max_length="40" name="x_821667_membrezia_member" text_index="true" type="collection">
+        <element label="Baptism date" max_length="40" name="baptism_date" type="glide_date"/>
+        <element label="Birthdate" max_length="40" name="birthdate" type="glide_date"/>
+        <element label="Congregation" max_length="32" name="congregation" reference="x_821667_membrezia_congregation" type="reference"/>
+        <element label="CPF" max_length="11" name="cpf" type="string"/>
+        <element choice="1" label="Marital status" max_length="40" name="marital_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Solteiro" sequence="0" value="solteiro"/>
+                <element inactive_on_update="false" label="Casado" sequence="1" value="casado"/>
+                <element inactive_on_update="false" label="Viúvo" sequence="2" value="viuvo"/>
+            </choice>
+        </element>
+        <element label="Naturalness" max_length="70" name="naturalness" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Responsibility" max_length="32" name="responsibility" reference="x_821667_membrezia_responsibility" type="reference"/>
+        <element label="RG" max_length="11" name="rg" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Não é Membro" sequence="0" value="nao_membro"/>
+                <element inactive_on_update="false" label="Ligado" sequence="1" value="ligado"/>
+                <element inactive_on_update="false" label="Desligado" sequence="2" value="desligado"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="congregation"/>
+        </index>
+        <index name="index2">
+            <element name="responsibility"/>
+        </index>
+    </element>
+</database>

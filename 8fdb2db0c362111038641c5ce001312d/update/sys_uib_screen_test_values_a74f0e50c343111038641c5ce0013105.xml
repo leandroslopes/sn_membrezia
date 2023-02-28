@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{ }</macroponent_config>
+        <screen display_value="Home default">e90e4a9c1d0311103de5345fe8798e9f</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-05 00:07:10</sys_created_on>
+        <sys_id>a74f0e50c343111038641c5ce0013105</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_a74f0e50c343111038641c5ce0013105</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-05 00:07:10</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

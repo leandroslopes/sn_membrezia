@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f3fc8674c3e2111038641c5ce00131fe" label="Movement" max_length="40" name="x_821667_membrezia_movement" text_index="true" type="collection">
+        <element label="Congregation" max_length="32" name="congregation" reference="x_821667_membrezia_congregation" type="reference"/>
+        <element label="Congregation Cult" max_length="32" name="congregation_cult" reference="x_821667_membrezia_congregation_cult" type="reference"/>
+        <element label="Contributor" max_length="32" name="contributor" reference="x_821667_membrezia_member" type="reference"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Expenditure type" max_length="32" name="expenditure_type" reference="x_821667_membrezia_expenditure_type" type="reference"/>
+        <element label="Movement Date" max_length="40" name="movement_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Receita" sequence="0" value="receita"/>
+                <element inactive_on_update="false" label="Despesa" sequence="1" value="despesa"/>
+                <element inactive_on_update="false" label="Dízmo" sequence="2" value="dizmo"/>
+                <element inactive_on_update="false" label="Oferta" sequence="3" value="oferta"/>
+            </choice>
+        </element>
+        <element label="Value" max_length="40" name="value" type="currency2"/>
+        <index name="index">
+            <element name="congregation"/>
+        </index>
+        <index name="index2">
+            <element name="congregation_cult"/>
+        </index>
+        <index name="index3">
+            <element name="contributor"/>
+        </index>
+        <index name="index4">
+            <element name="expenditure_type"/>
+        </index>
+        <index name="index5">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index6">
+            <element name="value"/>
+        </index>
+    </element>
+</database>

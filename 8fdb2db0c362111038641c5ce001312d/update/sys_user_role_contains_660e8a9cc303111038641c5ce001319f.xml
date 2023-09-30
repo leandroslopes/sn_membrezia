@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
     <sys_user_role_contains action="INSERT_OR_UPDATE">
         <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
-        <role display_value="x_821667_membrezia.membrezia_secretary" name="x_821667_membrezia.membrezia_secretary">cbdb2db0c362111038641c5ce0013133</role>
+        <role display_value="x_821667_membrezia.secretary" name="x_821667_membrezia.secretary">cbdb2db0c362111038641c5ce0013133</role>
         <sys_class_name>sys_user_role_contains</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-05 00:01:38</sys_created_on>

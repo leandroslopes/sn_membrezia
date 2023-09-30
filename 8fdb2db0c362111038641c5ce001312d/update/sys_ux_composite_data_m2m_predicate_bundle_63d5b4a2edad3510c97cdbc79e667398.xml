@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">a3d5b4a2fcad35109b5d19ef0f817b9d</dataset>
+        <order/>
+        <predicate_bundle display_value="My requests - reqested item bundle">2fd5b4a262ad3510d46747236a647a96</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-30 20:10:54</sys_created_on>
+        <sys_id>63d5b4a2edad3510c97cdbc79e667398</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_63d5b4a2edad3510c97cdbc79e667398</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-30 20:10:54</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

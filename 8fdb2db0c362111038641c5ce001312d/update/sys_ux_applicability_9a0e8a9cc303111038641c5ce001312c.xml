@@ -4,6 +4,7 @@
         <api_name>x_821667_membrezia.Audience for appMembrezia</api_name>
         <description/>
         <name>Audience for appMembrezia</name>
+        <role_names/>
         <roles>cbdb2db0c362111038641c5ce0013133,17db2db0c362111038641c5ce0013138</roles>
         <sys_class_name>sys_ux_applicability</sys_class_name>
         <sys_created_by>admin</sys_created_by>

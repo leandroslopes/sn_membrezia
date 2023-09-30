@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="Membrezia Config">650e4a9cc70311106daf5b3a044221a2</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[ {
   "eventMappingId" : "ckssfsuriiaaaaaauddhiiffnlhhwhxev",
   "isConfiguration" : false,

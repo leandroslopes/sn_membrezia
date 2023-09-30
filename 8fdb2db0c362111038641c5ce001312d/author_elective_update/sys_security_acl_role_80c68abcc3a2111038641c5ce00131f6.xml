@@ -42,7 +42,7 @@
         <update_guid_history>dcc68abc55a211109883000c6eaee0f8:1375526992</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_821667_membrezia_member.x_821667_membrezia.membrezia_secretary">e4e68ebcc3a2111038641c5ce00131e1</sys_audit_delete>
+        <sys_audit_delete display_value="">e4e68ebcc3a2111038641c5ce00131e1</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-12 16:15:58</sys_created_on>

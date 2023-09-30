@@ -13,7 +13,7 @@
         <sys_update_name>sys_security_acl_role_25284630c3e2111038641c5ce0013169</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-10-12 16:21:29</sys_updated_on>
-        <sys_user_role display_value="x_821667_membrezia.membrezia_secretary" name="x_821667_membrezia.membrezia_secretary">cbdb2db0c362111038641c5ce0013133</sys_user_role>
+        <sys_user_role display_value="x_821667_membrezia.secretary" name="x_821667_membrezia.secretary">cbdb2db0c362111038641c5ce0013133</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>

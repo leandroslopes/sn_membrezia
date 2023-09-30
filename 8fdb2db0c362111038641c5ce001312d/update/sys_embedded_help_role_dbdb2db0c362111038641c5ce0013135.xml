@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="x_821667_membrezia.membrezia_secretary" name="x_821667_membrezia.membrezia_secretary">cbdb2db0c362111038641c5ce0013133</role>
+        <role display_value="x_821667_membrezia.secretary" name="x_821667_membrezia.secretary">cbdb2db0c362111038641c5ce0013133</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-12 14:17:54</sys_created_on>

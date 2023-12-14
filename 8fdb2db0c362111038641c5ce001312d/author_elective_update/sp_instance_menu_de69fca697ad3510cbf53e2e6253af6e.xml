@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu">
+    <sp_instance_menu action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column/>
+        <sp_widget display_value="Header Menu">5ef595c1cb12020000f8d856634c9c6e</sp_widget>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-09-30 20:26:48</sys_created_on>
+        <sys_id>de69fca697ad3510cbf53e2e6253af6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Membrezia Header Menu</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sp_instance_menu_de69fca697ad3510cbf53e2e6253af6e</sys_update_name>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-09-30 20:26:48</sys_updated_on>
+        <title>Membrezia Header Menu</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_menu>
+    <sys_translated_text action="DELETE" query="documentkey=de69fca697ad3510cbf53e2e6253af6e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</application>
+        <file_path/>
+        <instance_id>7ce0729fdb91f410e26fd7c8f4961917</instance_id>
+        <instance_name>dev118034</instance_name>
+        <name>sp_instance_menu_de69fca697ad3510cbf53e2e6253af6e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu"><sp_instance_menu action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column/><sp_widget display_value="Header Menu">5ef595c1cb12020000f8d856634c9c6e</sp_widget><sys_class_name>sp_instance_menu</sys_class_name><sys_created_by>leandro.lopes</sys_created_by><sys_created_on>2023-09-30 20:26:48</sys_created_on><sys_id>de69fca697ad3510cbf53e2e6253af6e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Membrezia Header Menu</sys_name><sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package><sys_policy/><sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope><sys_update_name>sp_instance_menu_de69fca697ad3510cbf53e2e6253af6e</sys_update_name><sys_updated_by>leandro.lopes</sys_updated_by><sys_updated_on>2023-09-30 20:26:48</sys_updated_on><title>Membrezia Header Menu</title><url/><widget_parameters/></sp_instance_menu><sys_translated_text action="delete_multiple" query="documentkey=de69fca697ad3510cbf53e2e6253af6e"/></record_update>]]></payload>
+        <payload_hash>-1822689613</payload_hash>
+        <record_name>Membrezia Header Menu</record_name>
+        <reverted_from/>
+        <source>50bb68ae972d3510cbf53e2e6253af53</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-09-30 20:43:20</sys_created_on>
+        <sys_id>574d786e97ad3510cbf53e2e6253af46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ae7d4da0e0000001</sys_recorded_at>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-09-30 20:43:20</sys_updated_on>
+        <type>Instance with Menu</type>
+        <update_guid>4189fca602ad3510c5108b8a49b3c075</update_guid>
+        <update_guid_history>4189fca602ad3510c5108b8a49b3c075:-1822689613,1c3cbcaaf0ad3510a5d7c5f074b1c98f:1970619175,4189fca602ad3510c5108b8a49b3c075:-1822689613</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Membrezia Header Menu">9783558f9725f510cbf53e2e6253af07</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-10-02 11:37:32</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_menu">sp_instance_menu</sys_db_object>
+        <sys_id>210a74a6421148de97e8ab4525451664</sys_id>
+        <sys_metadata>de69fca697ad3510cbf53e2e6253af6e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Membrezia Header Menu</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_scope_delete display_value="">0c4854ac4bfc446b8da4945ba8f34fc9</sys_scope_delete>
+        <sys_update_name>sp_instance_menu_de69fca697ad3510cbf53e2e6253af6e</sys_update_name>
+        <sys_update_version display_value="sp_instance_menu_de69fca697ad3510cbf53e2e6253af6e">574d786e97ad3510cbf53e2e6253af46</sys_update_version>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-10-02 11:37:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-05 00:01:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a90e4a9cf30311107e795676884c63a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>m2m_app_config_theme_a90e4a9cf30311107e795676884c63a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-05 00:01:36</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">290e4a9cbe03111080a819e7056a6fa2</theme>
+        <ux_app_configuration display_value="Membrezia Config">650e4a9cc70311106daf5b3a044221a2</ux_app_configuration>
+    </m2m_app_config_theme>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</application>
+        <file_path/>
+        <instance_id>7ce0729fdb91f410e26fd7c8f4961917</instance_id>
+        <instance_name>dev118034</instance_name>
+        <name>m2m_app_config_theme_a90e4a9cf30311107e795676884c63a2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-05 00:01:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a90e4a9cf30311107e795676884c63a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>m2m_app_config_theme_a90e4a9cf30311107e795676884c63a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-05 00:01:36</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">290e4a9cbe03111080a819e7056a6fa2</theme>
+        <ux_app_configuration display_value="Membrezia Config">650e4a9cc70311106daf5b3a044221a2</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>]]></payload>
+        <payload_hash>-2101657753</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>957b20e2976d3510cbf53e2e6253afd4</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-09-30 19:25:39</sys_created_on>
+        <sys_id>958b28e2976d3510cbf53e2e6253af8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ae78db9e60000001</sys_recorded_at>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-09-30 19:25:39</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>558b28e2186d3510ebe64a7b93c50d8c</update_guid>
+        <update_guid_history>558b28e2186d3510ebe64a7b93c50d8c:-2101657753</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">3560f096974bb510cbf53e2e6253af21</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-13 14:42:41</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>d0aae1cda3d94c3a8c8a21f619f13684</sys_id>
+        <sys_metadata>a90e4a9cf30311107e795676884c63a2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_scope_delete display_value="">0c4854ac4bfc446b8da4945ba8f34fc9</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_a90e4a9cf30311107e795676884c63a2</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_a90e4a9cf30311107e795676884c63a2">958b28e2976d3510cbf53e2e6253af8c</sys_update_version>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-13 14:42:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

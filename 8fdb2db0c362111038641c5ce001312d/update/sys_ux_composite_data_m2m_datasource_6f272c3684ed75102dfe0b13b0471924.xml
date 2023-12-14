@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">ef272c3669ed751079064574d48bc135</dataset>
+        <datasource display_value="Custom Portal Landing - Popular articles Datasource">23272c3600ed7510d97a481e520aba35</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-01 13:45:14</sys_created_on>
+        <sys_id>6f272c3684ed75102dfe0b13b0471924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_6f272c3684ed75102dfe0b13b0471924</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-01 13:45:14</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

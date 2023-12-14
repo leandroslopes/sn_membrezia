@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
     <sys_ux_app_route action="INSERT_OR_UPDATE">
-        <app_config display_value="Membrezia Config">650e4a9cc70311106daf5b3a044221a2</app_config>
+        <app_config/>
         <description/>
         <extension_point/>
         <fields>uuid</fields>

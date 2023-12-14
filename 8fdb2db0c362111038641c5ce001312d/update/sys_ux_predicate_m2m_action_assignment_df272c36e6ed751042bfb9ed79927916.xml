@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="approve">67272c3643ed75105c85e6f8bac1f052</declarative_action_assignment>
+        <predicate display_value="My Tasks">e7272c364ded7510fb28f44f0b790021</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-01 13:45:13</sys_created_on>
+        <sys_id>df272c36e6ed751042bfb9ed79927916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_df272c36e6ed751042bfb9ed79927916</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-01 13:45:13</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

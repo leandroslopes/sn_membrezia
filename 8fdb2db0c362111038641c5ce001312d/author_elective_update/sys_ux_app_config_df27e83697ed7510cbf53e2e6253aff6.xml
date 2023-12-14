@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description>teste</description>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>landing</landing_path>
+        <name>Membrezia Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-01 13:45:13</sys_created_on>
+        <sys_id>df27e83697ed7510cbf53e2e6253aff6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Membrezia Config</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_ux_app_config_df27e83697ed7510cbf53e2e6253aff6</sys_update_name>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-10-02 11:17:25</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="DELETE" query="documentkey=df27e83697ed7510cbf53e2e6253aff6"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</application>
+        <file_path/>
+        <instance_id>7ce0729fdb91f410e26fd7c8f4961917</instance_id>
+        <instance_name>dev118034</instance_name>
+        <name>sys_ux_app_config_df27e83697ed7510cbf53e2e6253aff6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description>teste</description><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>landing</landing_path><name>Membrezia Config</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-10-01 13:45:13</sys_created_on><sys_id>df27e83697ed7510cbf53e2e6253aff6</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Membrezia Config</sys_name><sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package><sys_policy/><sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope><sys_update_name>sys_ux_app_config_df27e83697ed7510cbf53e2e6253aff6</sys_update_name><sys_updated_by>leandro.lopes</sys_updated_by><sys_updated_on>2023-10-02 11:17:25</sys_updated_on></sys_ux_app_config><sys_translated_text action="delete_multiple" query="documentkey=df27e83697ed7510cbf53e2e6253aff6"/></record_update>]]></payload>
+        <payload_hash>1685118911</payload_hash>
+        <record_name>Membrezia Config</record_name>
+        <reverted_from/>
+        <source>50bb68ae972d3510cbf53e2e6253af53</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-10-02 11:17:25</sys_created_on>
+        <sys_id>30fe4d0b9725f510cbf53e2e6253aff7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18af01b72460000001</sys_recorded_at>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-10-02 11:17:25</sys_updated_on>
+        <type>UX App Configuration</type>
+        <update_guid>38fe4d0b8f25f51093be0c17cf9a4cf6</update_guid>
+        <update_guid_history>38fe4d0b8f25f51093be0c17cf9a4cf6:1685118911,bcfe4d0bf225f510cb9bbbaabec3adf4:528807802</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-10-02 11:18:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>0ee07b5f7a134c888871dd334ef34024</sys_id>
+        <sys_metadata>df27e83697ed7510cbf53e2e6253aff6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Membrezia Config</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_scope_delete display_value="">0c4854ac4bfc446b8da4945ba8f34fc9</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_df27e83697ed7510cbf53e2e6253aff6</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_df27e83697ed7510cbf53e2e6253aff6">30fe4d0b9725f510cbf53e2e6253aff7</sys_update_version>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-10-02 11:18:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

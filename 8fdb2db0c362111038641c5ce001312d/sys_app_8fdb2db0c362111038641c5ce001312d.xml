@@ -48,6 +48,7 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>church.png</file_name>
         <hash>5bc04c490dae2b17b0607e35b0ddc9c3852cf61676bbac1fbbe77260c4ed4c10</hash>
         <image_height/>

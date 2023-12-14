@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>650e4a9cc70311106daf5b3a044221a2</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>membrezia</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-05 00:01:35</sys_created_on>
+        <sys_id>250e4a9c2d03111094e17a061dbd72a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Membrezia</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_ux_page_registry_250e4a9c2d03111094e17a061dbd72a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-05 00:01:35</sys_updated_on>
+        <title>Membrezia</title>
+    </sys_ux_page_registry>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</application>
+        <file_path/>
+        <instance_id>7ce0729fdb91f410e26fd7c8f4961917</instance_id>
+        <instance_name>dev118034</instance_name>
+        <name>sys_ux_page_registry_250e4a9c2d03111094e17a061dbd72a2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>650e4a9cc70311106daf5b3a044221a2</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>membrezia</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-05 00:01:35</sys_created_on>
+        <sys_id>250e4a9c2d03111094e17a061dbd72a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Membrezia</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_ux_page_registry_250e4a9c2d03111094e17a061dbd72a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-05 00:01:35</sys_updated_on>
+        <title>Membrezia</title>
+    </sys_ux_page_registry>
+</record_update>]]></payload>
+        <payload_hash>1380317181</payload_hash>
+        <record_name>Membrezia</record_name>
+        <reverted_from/>
+        <source>957b20e2976d3510cbf53e2e6253afd4</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-09-30 19:25:48</sys_created_on>
+        <sys_id>db8b2ce2976d3510cbf53e2e6253afda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ae78ddb7a0000001</sys_recorded_at>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-09-30 19:25:48</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>9b8b2ce2046d3510efcefbe80f4063da</update_guid>
+        <update_guid_history>9b8b2ce2046d3510efcefbe80f4063da:1380317181</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-13 14:42:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>6166eec3d29e47ad8ce7b0f0d03cfa91</sys_id>
+        <sys_metadata>250e4a9c2d03111094e17a061dbd72a2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Membrezia</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_scope_delete display_value="">0c4854ac4bfc446b8da4945ba8f34fc9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_250e4a9c2d03111094e17a061dbd72a2</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_250e4a9c2d03111094e17a061dbd72a2">db8b2ce2976d3510cbf53e2e6253afda</sys_update_version>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-13 14:42:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

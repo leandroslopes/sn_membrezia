@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_menu</name>
+        <page display_value="Membrezia">db27e83697ed7510cbf53e2e6253aff6</page>
+        <required_translations>[ {
+  "message" : "Cargo",
+  "comment" : ""
+}, {
+  "message" : "Congregação",
+  "comment" : ""
+}, {
+  "message" : "Culto",
+  "comment" : ""
+}, {
+  "message" : "Membro",
+  "comment" : ""
+}, {
+  "message" : "Menu",
+  "comment" : ""
+}, {
+  "message" : "Movimentação",
+  "comment" : ""
+}, {
+  "message" : "Tipo de Despesa",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix>chrome_menu</suffix>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-01 13:45:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>13272c36cced751075fdc99fee01fa19</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>chrome_menu</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_ux_page_property_13272c36cced751075fdc99fee01fa19</sys_update_name>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-10-01 19:31:26</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_821667_membrezia.db27e83697ed7510cbf53e2e6253aff6.root.chrome_menu</unique_name>
+        <value>[
+    {
+       "value":{
+          "label": {
+            "translatable":true, 
+            "message":"Menu"
+          }
+       },
+       "children":{
+                   "items":[
+                      {
+                         "value":{
+                            "label": {
+                                "translatable":true, 
+                                "message":"Congregação"
+                              },
+                            "type":"route",
+                            "value":{
+                              "route":"article",
+                                 "fields":{
+                                    "sysId": "3020c9b1474321009db4b5b08b9a712d"
+                              }
+                            }
+                         }
+                      },
+                      {
+                         "value":{
+                            "label": {
+                                "translatable":true, 
+                                "message":"Culto"
+                              },
+                            "type":"route",
+                            "value":{
+                              "route":"article",
+                                 "fields":{
+                                    "sysId": "3020c9b1474321009db4b5b08b9a712d"
+                              }
+                            }
+                         }
+                      },
+                      {
+                         "value":{
+                            "label": {
+                                "translatable":true, 
+                                "message":"Cargo"
+                              },
+                            "type":"route",
+                            "value":{
+                              "route":"article",
+                                 "fields":{
+                                    "sysId": "3020c9b1474321009db4b5b08b9a712d"
+                              }
+                            }
+                         }
+                      },
+                      {
+                         "value":{
+                            "label": {
+                                "translatable":true, 
+                                "message":"Tipo de Despesa"
+                              },
+                            "type":"route",
+                            "value":{
+                              "route":"article",
+                                 "fields":{
+                                    "sysId": "3020c9b1474321009db4b5b08b9a712d"
+                              }
+                            }
+                         }
+                      },
+                      {
+                         "value":{
+                            "label": {
+                                "translatable":true, 
+                                "message":"Cargo"
+                              },
+                            "type":"route",
+                            "value":{
+                              "route":"article",
+                                 "fields":{
+                                    "sysId": "3020c9b1474321009db4b5b08b9a712d"
+                              }
+                            }
+                         }
+                      },
+                      {
+                         "value":{
+                            "label": {
+                                "translatable":true, 
+                                "message":"Membro"
+                              },
+                            "type":"route",
+                            "value":{
+                              "route":"article",
+                                 "fields":{
+                                    "sysId": "3020c9b1474321009db4b5b08b9a712d"
+                              }
+                            }
+                         }
+                      },
+                      {
+                         "value":{
+                            "label": {
+                                "translatable":true, 
+                                "message":"Movimentação"
+                              },
+                            "type":"route",
+                            "value":{
+                              "route":"article",
+                                 "fields":{
+                                    "sysId": "3020c9b1474321009db4b5b08b9a712d"
+                              }
+                            }
+                         }
+                      }
+                   ]
+                }
+    }
+ ]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=13272c36cced751075fdc99fee01fa19"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</application>
+        <file_path/>
+        <instance_id>7ce0729fdb91f410e26fd7c8f4961917</instance_id>
+        <instance_name>dev118034</instance_name>
+        <name>sys_ux_page_property_13272c36cced751075fdc99fee01fa19</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_menu</name><page display_value="Membrezia">db27e83697ed7510cbf53e2e6253aff6</page><required_translations>[ {
+  "message" : "Cargo",
+  "comment" : ""
+}, {
+  "message" : "Congregação",
+  "comment" : ""
+}, {
+  "message" : "Culto",
+  "comment" : ""
+}, {
+  "message" : "Membro",
+  "comment" : ""
+}, {
+  "message" : "Menu",
+  "comment" : ""
+}, {
+  "message" : "Movimentação",
+  "comment" : ""
+}, {
+  "message" : "Tipo de Despesa",
+  "comment" : ""
+} ]</required_translations><route/><suffix>chrome_menu</suffix><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-10-01 13:45:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>13272c36cced751075fdc99fee01fa19</sys_id><sys_mod_count>12</sys_mod_count><sys_name>chrome_menu</sys_name><sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package><sys_policy/><sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope><sys_update_name>sys_ux_page_property_13272c36cced751075fdc99fee01fa19</sys_update_name><sys_updated_by>leandro.lopes</sys_updated_by><sys_updated_on>2023-10-01 19:31:26</sys_updated_on><type>json</type><unique_name>x_821667_membrezia.db27e83697ed7510cbf53e2e6253aff6.root.chrome_menu</unique_name><value>[
+    {
+       "value":{
+          "label": {
+            "translatable":true, 
+            "message":"Menu"
+          }
+       },
+       "children":{
+                   "items":[
+                      {
+                         "value":{
+                            "label": {
+                                "translatable":true, 
+                                "message":"Congregação"
+                              },
+                            "type":"route",
+                            "value":{
+                              "route":"article",
+                                 "fields":{
+                                    "sysId": "3020c9b1474321009db4b5b08b9a712d"
+                              }
+                            }
+                         }
+                      },
+                      {
+                         "value":{
+                            "label": {
+                                "translatable":true, 
+                                "message":"Culto"
+                              },
+                            "type":"route",
+                            "value":{
+                              "route":"article",
+                                 "fields":{
+                                    "sysId": "3020c9b1474321009db4b5b08b9a712d"
+                              }
+                            }
+                         }
+                      },
+                      {
+                         "value":{
+                            "label": {
+                                "translatable":true, 
+                                "message":"Cargo"
+                              },
+                            "type":"route",
+                            "value":{
+                              "route":"article",
+                                 "fields":{
+                                    "sysId": "3020c9b1474321009db4b5b08b9a712d"
+                              }
+                            }
+                         }
+                      },
+                      {
+                         "value":{
+                            "label": {
+                                "translatable":true, 
+                                "message":"Tipo de Despesa"
+                              },
+                            "type":"route",
+                            "value":{
+                              "route":"article",
+                                 "fields":{
+                                    "sysId": "3020c9b1474321009db4b5b08b9a712d"
+                              }
+                            }
+                         }
+                      },
+                      {
+                         "value":{
+                            "label": {
+                                "translatable":true, 
+                                "message":"Cargo"
+                              },
+                            "type":"route",
+                            "value":{
+                              "route":"article",
+                                 "fields":{
+                                    "sysId": "3020c9b1474321009db4b5b08b9a712d"
+                              }
+                            }
+                         }
+                      },
+                      {
+                         "value":{
+                            "label": {
+                                "translatable":true, 
+                                "message":"Membro"
+                              },
+                            "type":"route",
+                            "value":{
+                              "route":"article",
+                                 "fields":{
+                                    "sysId": "3020c9b1474321009db4b5b08b9a712d"
+                              }
+                            }
+                         }
+                      },
+                      {
+                         "value":{
+                            "label": {
+                                "translatable":true, 
+                                "message":"Movimentação"
+                              },
+                            "type":"route",
+                            "value":{
+                              "route":"article",
+                                 "fields":{
+                                    "sysId": "3020c9b1474321009db4b5b08b9a712d"
+                              }
+                            }
+                         }
+                      }
+                   ]
+                }
+    }
+ ]</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=13272c36cced751075fdc99fee01fa19"/></record_update>]]></payload>
+        <payload_hash>-255830099</payload_hash>
+        <record_name>chrome_menu</record_name>
+        <reverted_from/>
+        <source>50bb68ae972d3510cbf53e2e6253af53</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-10-01 19:31:26</sys_created_on>
+        <sys_id>ab66b17e9725b510cbf53e2e6253afe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18aecb960080000001</sys_recorded_at>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-10-01 19:31:26</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>6366b17ec025b51036009184e8862ce1</update_guid>
+        <update_guid_history>6366b17ec025b51036009184e8862ce1:-255830099,8f46b9bacc25b510912a8361a869bce1:895298415,ff64bd7a8a25b510f16b74948d5f5089:-792628187,5dd274324c21b5107a1a66c0a8db801b:-1354645279,bc9278726d21b510780feecc8dd53e11:-319445325,206230b2c821b51016d7a9905ce92d9f:-1441331511,16f178727c21b51076411b2e217b670b:-319445325,f54174fe05ed75106429283a9e8d5004:955028142,74ff28bed6ed7510ba3738d5f9e7a064:-1692538539,cdbfec3e5ced7510627e2db3ee5982c1:-1936068967,483f28beaaed75105409ebbd342e1c5d:-1413118335,97fe24be1fed75109714c497fb9d0cf4:-1852558439,d7fe6cba62ed75104f78dc459d160b45:967395686</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-13 13:23:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>6f9f89b33fa34443be94fb7ca02a2df9</sys_id>
+        <sys_metadata>13272c36cced751075fdc99fee01fa19</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_menu</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_scope_delete display_value="">0c4854ac4bfc446b8da4945ba8f34fc9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_13272c36cced751075fdc99fee01fa19</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_13272c36cced751075fdc99fee01fa19">ab66b17e9725b510cbf53e2e6253afe1</sys_update_version>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-13 13:23:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

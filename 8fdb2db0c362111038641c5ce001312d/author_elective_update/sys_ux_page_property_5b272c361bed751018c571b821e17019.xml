@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">db27e83697ed7510cbf53e2e6253aff6</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">ef272c36c9ed751060ff7ae00d207144</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-01 13:45:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>5b272c361bed751018c571b821e17019</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_ux_page_property_5b272c361bed751018c571b821e17019</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-01 13:45:14</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_821667_membrezia.db27e83697ed7510cbf53e2e6253aff6.route.chrome_header.ef272c36c9ed751060ff7ae00d207144</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</application>
+        <file_path/>
+        <instance_id>7ce0729fdb91f410e26fd7c8f4961917</instance_id>
+        <instance_name>dev118034</instance_name>
+        <name>sys_ux_page_property_5b272c361bed751018c571b821e17019</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">db27e83697ed7510cbf53e2e6253aff6</page><required_translations>[]</required_translations><route display_value="Search Page">ef272c36c9ed751060ff7ae00d207144</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-10-01 13:45:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>5b272c361bed751018c571b821e17019</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package><sys_policy/><sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope><sys_update_name>sys_ux_page_property_5b272c361bed751018c571b821e17019</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-10-01 13:45:14</sys_updated_on><type>json</type><unique_name>x_821667_membrezia.db27e83697ed7510cbf53e2e6253aff6.route.chrome_header.ef272c36c9ed751060ff7ae00d207144</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-784462160</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>5a20f82297313110cbf53e2e6253afa2</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-13 06:01:38</sys_created_on>
+        <sys_id>5b3e9c1a9787b510cbf53e2e6253afdd</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b27a049d00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>1b3e9c1abc87b510d5fd829bc970addd</update_guid>
+        <update_guid_history>1b3e9c1abc87b510d5fd829bc970addd:-784462160</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-13 13:23:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>0b37ed57dd4745c0810235a39b907f10</sys_id>
+        <sys_metadata>5b272c361bed751018c571b821e17019</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_scope_delete display_value="">0c4854ac4bfc446b8da4945ba8f34fc9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_5b272c361bed751018c571b821e17019</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_5b272c361bed751018c571b821e17019">5b3e9c1a9787b510cbf53e2e6253afdd</sys_update_version>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-13 13:23:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

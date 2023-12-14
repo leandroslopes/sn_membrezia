@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="2f272c36afed7510e40deaaa688c294d" sys_domain="global" table="sysapproval_approver" version="3" view="2_custom_portal_approval_x_821667_membrezia">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-10-01 13:45:11</sys_created_on>
+            <sys_id>af272c361aed75102bd567cc7e8d854e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="2b272c36e9ed751013b5fea22b2a644e">2f272c36afed7510e40deaaa688c294d</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-10-01 13:45:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-10-01 13:45:11</sys_created_on>
+            <sys_id>e3272c3620ed75101f777d0b1c9d014d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="2b272c36e9ed751013b5fea22b2a644e">2f272c36afed7510e40deaaa688c294d</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-10-01 13:45:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-10-01 13:45:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f272c36afed7510e40deaaa688c294d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+            <sys_update_name>sys_ui_section_2f272c36afed7510e40deaaa688c294d</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-10-01 13:45:11</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="">2b272c36e9ed751013b5fea22b2a644e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</application>
+        <file_path/>
+        <instance_id>7ce0729fdb91f410e26fd7c8f4961917</instance_id>
+        <instance_name>dev118034</instance_name>
+        <name>sys_ui_section_2f272c36afed7510e40deaaa688c294d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="2f272c36afed7510e40deaaa688c294d" sys_domain="global" table="sysapproval_approver" version="3" view="2_custom_portal_approval_x_821667_membrezia"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>system</sys_created_by><sys_created_on>2023-10-01 13:45:11</sys_created_on><sys_id>af272c361aed75102bd567cc7e8d854e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="2b272c36e9ed751013b5fea22b2a644e">2f272c36afed7510e40deaaa688c294d</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-10-01 13:45:11</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sysapproval</element><position>1</position><sys_created_by>system</sys_created_by><sys_created_on>2023-10-01 13:45:11</sys_created_on><sys_id>e3272c3620ed75101f777d0b1c9d014d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="2b272c36e9ed751013b5fea22b2a644e">2f272c36afed7510e40deaaa688c294d</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-10-01 13:45:11</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sysapproval_approver</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-10-01 13:45:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2f272c36afed7510e40deaaa688c294d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sysapproval_approver</sys_name><sys_overrides/><sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package><sys_policy/><sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope><sys_update_name>sys_ui_section_2f272c36afed7510e40deaaa688c294d</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-10-01 13:45:11</sys_updated_on><sys_user/><title>false</title><view display_value="">2b272c36e9ed751013b5fea22b2a644e</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>457239159</payload_hash>
+        <record_name>Approval</record_name>
+        <reverted_from/>
+        <source>5a20f82297313110cbf53e2e6253afa2</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-13 06:01:38</sys_created_on>
+        <sys_id>3263f45e974bb510cbf53e2e6253afb9</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b27a049d00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Form Layout</type>
+        <update_guid>fe63f45ecb4bb510e4033f8871b44fb8</update_guid>
+        <update_guid_history>fe63f45ecb4bb510e4033f8871b44fb8:457239159</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-13 14:55:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>7c9186475c8f4608aefb0d3a6d91c0e4</sys_id>
+        <sys_metadata>2f272c36afed7510e40deaaa688c294d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysapproval_approver</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_parent display_value="Sysapproval Approver">d5bc47b5e8a1211076da10591ad28788</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_scope_delete display_value="">0c4854ac4bfc446b8da4945ba8f34fc9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_2f272c36afed7510e40deaaa688c294d</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_2f272c36afed7510e40deaaa688c294d">3263f45e974bb510cbf53e2e6253afb9</sys_update_version>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-13 14:55:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

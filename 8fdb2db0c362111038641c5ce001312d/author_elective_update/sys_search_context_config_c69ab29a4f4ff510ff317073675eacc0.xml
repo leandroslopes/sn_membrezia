@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="DELETE">
+        <collapse_attachment>false</collapse_attachment>
+        <enable_exact_match>true</enable_exact_match>
+        <evam_definition/>
+        <genius_results_limit/>
+        <hit_highlighting>false</hit_highlighting>
+        <name>Membrezia - Workspace Search</name>
+        <search_engine>zing</search_engine>
+        <search_profile/>
+        <search_results_limit>10</search_results_limit>
+        <show_tab_counts>false</show_tab_counts>
+        <spell_check>false</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-14 00:46:29</sys_created_on>
+        <sys_id>c69ab29a4f4ff510ff317073675eacc0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Membrezia - Workspace Search</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_search_context_config_c69ab29a4f4ff510ff317073675eacc0</sys_update_name>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:46:29</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</application>
+        <file_path/>
+        <instance_id>7ce0729fdb91f410e26fd7c8f4961917</instance_id>
+        <instance_name>dev118034</instance_name>
+        <name>sys_search_context_config_c69ab29a4f4ff510ff317073675eacc0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config"><sys_search_context_config action="INSERT_OR_UPDATE"><collapse_attachment>false</collapse_attachment><enable_exact_match>true</enable_exact_match><evam_definition/><genius_results_limit/><hit_highlighting>false</hit_highlighting><name>Membrezia - Workspace Search</name><search_engine>zing</search_engine><search_profile/><search_results_limit>10</search_results_limit><show_tab_counts>false</show_tab_counts><spell_check>false</spell_check><suggestions_to_show_limit>10</suggestions_to_show_limit><sys_class_name>sys_search_context_config</sys_class_name><sys_created_by>leandro.lopes</sys_created_by><sys_created_on>2023-12-14 00:46:29</sys_created_on><sys_id>c69ab29a4f4ff510ff317073675eacc0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Membrezia - Workspace Search</sys_name><sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package><sys_policy/><sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope><sys_update_name>sys_search_context_config_c69ab29a4f4ff510ff317073675eacc0</sys_update_name><sys_updated_by>leandro.lopes</sys_updated_by><sys_updated_on>2023-12-14 00:46:29</sys_updated_on><ts_index_group/><view/></sys_search_context_config></record_update>]]></payload>
+        <payload_hash>910110575</payload_hash>
+        <record_name>Membrezia - Workspace Search</record_name>
+        <reverted_from/>
+        <source>5a20f82297313110cbf53e2e6253afa2</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-13 06:01:38</sys_created_on>
+        <sys_id>5badb27e971f3510cbf53e2e6253afe9</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b27a049d00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Search Application Configuration</type>
+        <update_guid>1badb27e901f35106a40c734c18b60e9</update_guid>
+        <update_guid_history>1badb27e901f35106a40c734c18b60e9:910110575</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-28 00:32:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_search_context_config">sys_search_context_config</sys_db_object>
+        <sys_id>307c7c2d265f4fb18a7a54b93eeaab29</sys_id>
+        <sys_metadata>c69ab29a4f4ff510ff317073675eacc0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Membrezia - Workspace Search</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_scope_delete display_value="">0c4854ac4bfc446b8da4945ba8f34fc9</sys_scope_delete>
+        <sys_update_name>sys_search_context_config_c69ab29a4f4ff510ff317073675eacc0</sys_update_name>
+        <sys_update_version display_value="sys_search_context_config_c69ab29a4f4ff510ff317073675eacc0">5badb27e971f3510cbf53e2e6253afe9</sys_update_version>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-28 00:32:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

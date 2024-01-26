@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="Membrezia AI Search Configuration">029ab29a4e4ff510e459a6f08b1a54c1</context_config_id>
+        <limit>5</limit>
+        <order>500</order>
+        <section_header>Recently viewed</section_header>
+        <suggestion_type>User History Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-14 00:46:29</sys_created_on>
+        <sys_id>829ab29a024ff5104d479a2f4bf939c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User History Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_829ab29a024ff5104d479a2f4bf939c8</sys_update_name>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:46:29</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

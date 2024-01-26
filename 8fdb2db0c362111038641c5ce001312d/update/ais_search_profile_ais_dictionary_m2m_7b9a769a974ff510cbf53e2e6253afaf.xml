@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_821667_membrezia_membrezia_search_profile_default_spell_check_dictionary">7b9a769a974ff510cbf53e2e6253afac</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="membrezia Search Profile">429ab29a624ff510c7a4dcac56b991ca</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-14 00:46:35</sys_created_on>
+        <sys_id>7b9a769a974ff510cbf53e2e6253afaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_821667_membrezia_membrezia_search_profile_default_spell_check_dictionary.membrezia Search Profile</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_7b9a769a974ff510cbf53e2e6253afaf</sys_update_name>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:46:35</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

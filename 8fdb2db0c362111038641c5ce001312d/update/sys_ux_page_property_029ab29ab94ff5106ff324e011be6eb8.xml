@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="Membrezia">ca9ab29aa94ff510043a9121211cb9c9</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-14 00:46:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>029ab29ab94ff5106ff324e011be6eb8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_ux_page_property_029ab29ab94ff5106ff324e011be6eb8</sys_update_name>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:46:34</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_821667_membrezia.ca9ab29aa94ff510043a9121211cb9c9.root.listConfigId</unique_name>
+        <value>db9a369a974ff510cbf53e2e6253af85</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=029ab29ab94ff5106ff324e011be6eb8"/>
+</record_update>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="b247b9bcc362111038641c5ce001312c" label="Expenditure type" max_length="40" name="x_821667_membrezia_expenditure_type" text_index="true" type="collection">
-        <element label="Name" max_length="70" name="name" type="string"/>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Name" mandatory="true" max_length="70" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
         <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <index name="index">
             <element name="sys_class_name"/>

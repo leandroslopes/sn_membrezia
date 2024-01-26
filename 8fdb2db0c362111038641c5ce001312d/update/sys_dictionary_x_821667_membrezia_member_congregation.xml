@@ -28,7 +28,7 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="Reference">reference</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>32</max_length>
         <name>x_821667_membrezia_member</name>
         <next_element/>
@@ -52,8 +52,8 @@
         <sys_policy/>
         <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
         <sys_update_name>sys_dictionary_x_821667_membrezia_member_congregation</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-12 16:40:57</sys_updated_on>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-22 17:12:02</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

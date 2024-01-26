@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>workspace-membrezia-1</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-14 00:46:30</sys_created_on>
+        <sys_id>429ab29a394ff510460fbba4bfc009c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace Membrezia 1</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_ui_view_429ab29a394ff510460fbba4bfc009c0</sys_update_name>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:46:30</sys_updated_on>
+        <title>Workspace Membrezia 1</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</application>
+        <file_path/>
+        <instance_id>7ce0729fdb91f410e26fd7c8f4961917</instance_id>
+        <instance_name>dev118034</instance_name>
+        <name>sys_ui_view_429ab29a394ff510460fbba4bfc009c0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>workspace-membrezia-1</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>leandro.lopes</sys_created_by><sys_created_on>2023-12-14 00:46:30</sys_created_on><sys_id>429ab29a394ff510460fbba4bfc009c0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Workspace Membrezia 1</sys_name><sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package><sys_policy/><sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope><sys_update_name>sys_ui_view_429ab29a394ff510460fbba4bfc009c0</sys_update_name><sys_updated_by>leandro.lopes</sys_updated_by><sys_updated_on>2023-12-14 00:46:30</sys_updated_on><title>Workspace Membrezia 1</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>236045581</payload_hash>
+        <record_name>Workspace Membrezia 1</record_name>
+        <reverted_from/>
+        <source>5a20f82297313110cbf53e2e6253afa2</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-13 06:01:38</sys_created_on>
+        <sys_id>8695cf8d979bbd10cbf53e2e6253af16</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b27a049d00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UI View</type>
+        <update_guid>4695cf8d879bbd10a78a8651da894416</update_guid>
+        <update_guid_history>4695cf8d879bbd10a78a8651da894416:236045581</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-22 14:37:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>6aac1cbe75a043879723a2e3620b7d29</sys_id>
+        <sys_metadata>429ab29a394ff510460fbba4bfc009c0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace Membrezia 1</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_scope_delete display_value="">0c4854ac4bfc446b8da4945ba8f34fc9</sys_scope_delete>
+        <sys_update_name>sys_ui_view_429ab29a394ff510460fbba4bfc009c0</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_429ab29a394ff510460fbba4bfc009c0">8695cf8d979bbd10cbf53e2e6253af16</sys_update_version>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-22 14:37:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Responsibility">08aab69a974ff510cbf53e2e6253af60</ais_search_source>
+        <label>Responsibility</label>
+        <name>Responsibility</name>
+        <order>600</order>
+        <search_context_config display_value="Membrezia AI Search Configuration">029ab29a4e4ff510e459a6f08b1a54c1</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-14 00:46:36</sys_created_on>
+        <sys_id>4caab69a974ff510cbf53e2e6253af65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Responsibility</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_search_filter_4caab69a974ff510cbf53e2e6253af65</sys_update_name>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:46:36</sys_updated_on>
+    </sys_search_filter>
+</record_update>

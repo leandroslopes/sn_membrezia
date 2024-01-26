@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_suggestion_reader_sys_suggestion_reader_group">
+    <m2m_sys_suggestion_reader_sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <order>300</order>
+        <reader_requested_fields/>
+        <reader_searchable_fields/>
+        <sys_class_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-14 00:46:30</sys_created_on>
+        <sys_id>8e9ab29ac84ff5102c372c324e89edc5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_suggestion_reader_group_id display_value="Suggested Query Reader Group for Starter Workspace - Workspace Search">8a9ab29ac84ff510093728aaac9065c6</sys_suggestion_reader_group_id>
+        <sys_suggestion_reader_id display_value="Popular Query Reader">ddf6d5b77320001052c7d5fdbdf6a76f</sys_suggestion_reader_id>
+        <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_8e9ab29ac84ff5102c372c324e89edc5</sys_update_name>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:46:30</sys_updated_on>
+    </m2m_sys_suggestion_reader_sys_suggestion_reader_group>
+</record_update>

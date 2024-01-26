@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2024-01-01 17:45:39</change_date>
+        <changed_by display_value="Leandro Lopes">9cb41f4c97453110cbf53e2e6253affc</changed_by>
+        <content display_value="MID Server ">743013dac39312007bf1bea192d3aea8</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2024-01-01 17:45:39</sys_created_on>
+        <sys_id>5770dfd497a3f110cbf53e2e6253af66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2024-01-01 17:45:39</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>gsw_change_log_5770dfd497a3f110cbf53e2e6253af66</sys_update_name>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2024-01-01 17:45:39</sys_updated_on>
+        <type>1</type>
+    </gsw_change_log>
+</record_update>

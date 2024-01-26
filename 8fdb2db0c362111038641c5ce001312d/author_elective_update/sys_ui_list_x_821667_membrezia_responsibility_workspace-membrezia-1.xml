@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_821667_membrezia_responsibility" version="2" view="workspace-membrezia-1">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_821667_membrezia_responsibility" element="NULL" name="x_821667_membrezia_responsibility" parent="NULL" relationship="NULL" sys_domain="global" view="429ab29a394ff510460fbba4bfc009c0">19aa7a9a974ff510cbf53e2e6253af22</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>leandro.lopes</sys_created_by>
+            <sys_created_on>2023-12-14 00:46:41</sys_created_on>
+            <sys_id>51aa7a9a974ff510cbf53e2e6253af23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2023-12-14 00:46:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_821667_membrezia_responsibility" element="NULL" name="x_821667_membrezia_responsibility" parent="NULL" relationship="NULL" sys_domain="global" view="429ab29a394ff510460fbba4bfc009c0">19aa7a9a974ff510cbf53e2e6253af22</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>leandro.lopes</sys_created_by>
+            <sys_created_on>2023-12-14 00:46:41</sys_created_on>
+            <sys_id>55aa7a9a974ff510cbf53e2e6253af23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2023-12-14 00:46:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>abbreviation</element>
+            <list_id display_value="x_821667_membrezia_responsibility" element="NULL" name="x_821667_membrezia_responsibility" parent="NULL" relationship="NULL" sys_domain="global" view="429ab29a394ff510460fbba4bfc009c0">19aa7a9a974ff510cbf53e2e6253af22</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>leandro.lopes</sys_created_by>
+            <sys_created_on>2023-12-14 00:46:41</sys_created_on>
+            <sys_id>59aa7a9a974ff510cbf53e2e6253af23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2023-12-14 00:46:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_821667_membrezia_responsibility</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>leandro.lopes</sys_created_by>
+            <sys_created_on>2023-12-14 00:46:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>19aa7a9a974ff510cbf53e2e6253af22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_821667_membrezia_responsibility</sys_name>
+            <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+            <sys_update_name>sys_ui_list_x_821667_membrezia_responsibility_workspace-membrezia-1</sys_update_name>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2023-12-14 00:46:41</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Membrezia 1" name="workspace-membrezia-1">429ab29a394ff510460fbba4bfc009c0</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</application>
+        <file_path/>
+        <instance_id>7ce0729fdb91f410e26fd7c8f4961917</instance_id>
+        <instance_name>dev118034</instance_name>
+        <name>sys_ui_list_x_821667_membrezia_responsibility_workspace-membrezia-1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_821667_membrezia_responsibility" version="2" view="workspace-membrezia-1"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="x_821667_membrezia_responsibility" element="NULL" name="x_821667_membrezia_responsibility" parent="NULL" relationship="NULL" sys_domain="global" view="429ab29a394ff510460fbba4bfc009c0">19aa7a9a974ff510cbf53e2e6253af22</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>leandro.lopes</sys_created_by><sys_created_on>2023-12-14 00:46:41</sys_created_on><sys_id>51aa7a9a974ff510cbf53e2e6253af23</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>leandro.lopes</sys_updated_by><sys_updated_on>2023-12-14 00:46:41</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>name</element><list_id display_value="x_821667_membrezia_responsibility" element="NULL" name="x_821667_membrezia_responsibility" parent="NULL" relationship="NULL" sys_domain="global" view="429ab29a394ff510460fbba4bfc009c0">19aa7a9a974ff510cbf53e2e6253af22</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>leandro.lopes</sys_created_by><sys_created_on>2023-12-14 00:46:41</sys_created_on><sys_id>55aa7a9a974ff510cbf53e2e6253af23</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>leandro.lopes</sys_updated_by><sys_updated_on>2023-12-14 00:46:41</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>abbreviation</element><list_id display_value="x_821667_membrezia_responsibility" element="NULL" name="x_821667_membrezia_responsibility" parent="NULL" relationship="NULL" sys_domain="global" view="429ab29a394ff510460fbba4bfc009c0">19aa7a9a974ff510cbf53e2e6253af22</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>leandro.lopes</sys_created_by><sys_created_on>2023-12-14 00:46:41</sys_created_on><sys_id>59aa7a9a974ff510cbf53e2e6253af23</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>leandro.lopes</sys_updated_by><sys_updated_on>2023-12-14 00:46:41</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_821667_membrezia_responsibility</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>leandro.lopes</sys_created_by><sys_created_on>2023-12-14 00:46:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>19aa7a9a974ff510cbf53e2e6253af22</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_821667_membrezia_responsibility</sys_name><sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package><sys_policy/><sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope><sys_update_name>sys_ui_list_x_821667_membrezia_responsibility_workspace-membrezia-1</sys_update_name><sys_updated_by>leandro.lopes</sys_updated_by><sys_updated_on>2023-12-14 00:46:41</sys_updated_on><sys_user/><view display_value="Workspace Membrezia 1" name="workspace-membrezia-1">429ab29a394ff510460fbba4bfc009c0</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-128616597</payload_hash>
+        <record_name>Responsibility</record_name>
+        <reverted_from/>
+        <source>50bb68ae972d3510cbf53e2e6253af53</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-14 00:46:41</sys_created_on>
+        <sys_id>51aa7a9a974ff510cbf53e2e6253af48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c65ca3c100000001</sys_recorded_at>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:46:41</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>d5aa7a9a074ff510eb2f08cec5021047</update_guid>
+        <update_guid_history>d5aa7a9a074ff510eb2f08cec5021047:-128616597</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-22 14:37:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>9a02ed503b2d419c9fc0853201074644</sys_id>
+        <sys_metadata>19aa7a9a974ff510cbf53e2e6253af22</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_821667_membrezia_responsibility</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_parent display_value="Responsibility">602fbd74c3a2111038641c5ce0013133</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_scope_delete display_value="">0c4854ac4bfc446b8da4945ba8f34fc9</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_821667_membrezia_responsibility_workspace-membrezia-1</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_821667_membrezia_responsibility_workspace-membrezia-1">51aa7a9a974ff510cbf53e2e6253af48</sys_update_version>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-22 14:37:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

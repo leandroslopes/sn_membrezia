@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="DELETE">
+        <active>false</active>
+        <condition table="x_821667_membrezia_congregation_cult">active=true</condition>
+        <group/>
+        <name>Membrezia - x_821667_membrezia_congregation_cult</name>
+        <roles/>
+        <source_table>x_821667_membrezia_congregation_cult</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-05 00:01:41</sys_created_on>
+        <sys_id>970eca9cc303111038641c5ce0013198</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Membrezia - x_821667_membrezia_congregation_cult</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_search_source_970eca9cc303111038641c5ce0013198</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-05 00:01:41</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="DELETE" query="documentkey=970eca9cc303111038641c5ce0013198"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</application>
+        <file_path/>
+        <instance_id>7ce0729fdb91f410e26fd7c8f4961917</instance_id>
+        <instance_name>dev118034</instance_name>
+        <name>sys_search_source_970eca9cc303111038641c5ce0013198</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <condition table="x_821667_membrezia_congregation_cult">active=true</condition>
+        <group/>
+        <name>Membrezia - x_821667_membrezia_congregation_cult</name>
+        <roles/>
+        <source_table>x_821667_membrezia_congregation_cult</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-05 00:01:41</sys_created_on>
+        <sys_id>970eca9cc303111038641c5ce0013198</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Membrezia - x_821667_membrezia_congregation_cult</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_update_name>sys_search_source_970eca9cc303111038641c5ce0013198</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-05 00:01:41</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=970eca9cc303111038641c5ce0013198"/>
+</record_update>]]></payload>
+        <payload_hash>1670326354</payload_hash>
+        <record_name>Membrezia - x_821667_membrezia_congregation_cult</record_name>
+        <reverted_from/>
+        <source>957b20e2976d3510cbf53e2e6253afd4</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-09-30 19:25:41</sys_created_on>
+        <sys_id>298b68e2976d3510cbf53e2e6253af47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ae78dbf220000001</sys_recorded_at>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-09-30 19:25:41</sys_updated_on>
+        <type>Search Source</type>
+        <update_guid>e58b68e2d46d35103086c17e383bfa47</update_guid>
+        <update_guid_history>e58b68e2d46d35103086c17e383bfa47:1670326354</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-28 00:27:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_search_source">sys_search_source</sys_db_object>
+        <sys_id>58b7549f663b40f0a7fd416ed0d1e840</sys_id>
+        <sys_metadata>970eca9cc303111038641c5ce0013198</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Membrezia - x_821667_membrezia_congregation_cult</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_scope_delete display_value="">0c4854ac4bfc446b8da4945ba8f34fc9</sys_scope_delete>
+        <sys_update_name>sys_search_source_970eca9cc303111038641c5ce0013198</sys_update_name>
+        <sys_update_version display_value="sys_search_source_970eca9cc303111038641c5ce0013198">298b68e2976d3510cbf53e2e6253af47</sys_update_version>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-28 00:27:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

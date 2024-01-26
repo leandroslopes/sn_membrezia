@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="15e6c78197dbbd10cbf53e2e6253afdc" sys_domain="global" table="x_821667_membrezia_responsibility" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>leandro.lopes</sys_created_by>
+            <sys_created_on>2023-12-22 14:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9e6c78197dbbd10cbf53e2e6253afdf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_821667_membrezia_responsibility" name="x_821667_membrezia_responsibility" sys_domain="global" view="Default view">15e6c78197dbbd10cbf53e2e6253afdc</sys_ui_form>
+            <sys_ui_section caption="Responsability" display_value="Responsability" name="x_821667_membrezia_responsibility" sys_domain="global" view="Default view">e03f71b4c3a2111038641c5ce0013100</sys_ui_section>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2023-12-22 14:43:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_821667_membrezia_responsibility</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>leandro.lopes</sys_created_by>
+            <sys_created_on>2023-12-22 14:43:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15e6c78197dbbd10cbf53e2e6253afdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_821667_membrezia_responsibility</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_15e6c78197dbbd10cbf53e2e6253afdc</sys_update_name>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2023-12-22 14:43:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -3,14 +3,98 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-10-12 14:22:19</sys_created_on>
-            <sys_id>0cec6dfcc322111038641c5ce0013165</sys_id>
+            <sys_created_by>leandro.lopes</sys_created_by>
+            <sys_created_on>2023-12-22 17:16:05</sys_created_on>
+            <sys_id>e8d92b059713fd10cbf53e2e6253af0c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_821667_membrezia_congregation" sys_domain="global" view="Default view">ccec6dfcc322111038641c5ce0013161</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-10-12 14:22:19</sys_updated_on>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2023-12-22 17:16:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>foundation_date</element>
+            <position>1</position>
+            <sys_created_by>leandro.lopes</sys_created_by>
+            <sys_created_on>2023-12-22 17:16:05</sys_created_on>
+            <sys_id>28d92b059713fd10cbf53e2e6253af0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_821667_membrezia_congregation" sys_domain="global" view="Default view">ccec6dfcc322111038641c5ce0013161</sys_ui_section>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2023-12-22 17:16:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address</element>
+            <position>2</position>
+            <sys_created_by>leandro.lopes</sys_created_by>
+            <sys_created_on>2023-12-22 17:16:05</sys_created_on>
+            <sys_id>20d92b059713fd10cbf53e2e6253af0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_821667_membrezia_congregation" sys_domain="global" view="Default view">ccec6dfcc322111038641c5ce0013161</sys_ui_section>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2023-12-22 17:16:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>leandro.lopes</sys_created_by>
+            <sys_created_on>2023-12-22 17:16:05</sys_created_on>
+            <sys_id>28d92b059713fd10cbf53e2e6253af0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_821667_membrezia_congregation" sys_domain="global" view="Default view">ccec6dfcc322111038641c5ce0013161</sys_ui_section>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2023-12-22 17:16:05</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>4</position>
+            <sys_created_by>leandro.lopes</sys_created_by>
+            <sys_created_on>2023-12-22 17:16:05</sys_created_on>
+            <sys_id>20d92b059713fd10cbf53e2e6253af0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_821667_membrezia_congregation" sys_domain="global" view="Default view">ccec6dfcc322111038641c5ce0013161</sys_ui_section>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2023-12-22 17:16:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>5</position>
+            <sys_created_by>leandro.lopes</sys_created_by>
+            <sys_created_on>2023-12-22 17:16:05</sys_created_on>
+            <sys_id>28d92b059713fd10cbf53e2e6253af0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_821667_membrezia_congregation" sys_domain="global" view="Default view">ccec6dfcc322111038641c5ce0013161</sys_ui_section>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2023-12-22 17:16:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>is_standard</element>
+            <position>6</position>
+            <sys_created_by>leandro.lopes</sys_created_by>
+            <sys_created_on>2023-12-22 17:16:05</sys_created_on>
+            <sys_id>20d92b059713fd10cbf53e2e6253af10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_821667_membrezia_congregation" sys_domain="global" view="Default view">ccec6dfcc322111038641c5ce0013161</sys_ui_section>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2023-12-22 17:16:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

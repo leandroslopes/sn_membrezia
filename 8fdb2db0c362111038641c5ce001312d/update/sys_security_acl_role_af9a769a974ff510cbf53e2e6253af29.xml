@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2023-12-14 00:46:34</sys_created_on>
+        <sys_id>af9a769a974ff510cbf53e2e6253af29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.821667.membrezia.*.x_821667_membrezia.secretary</sys_name>
+        <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+        <sys_security_acl display_value="x.821667.membrezia.*">069ab29a464ff510022319802b557fc0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_af9a769a974ff510cbf53e2e6253af29</sys_update_name>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2023-12-14 00:46:34</sys_updated_on>
+        <sys_user_role display_value="x_821667_membrezia.secretary" name="x_821667_membrezia.secretary">cbdb2db0c362111038641c5ce0013133</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

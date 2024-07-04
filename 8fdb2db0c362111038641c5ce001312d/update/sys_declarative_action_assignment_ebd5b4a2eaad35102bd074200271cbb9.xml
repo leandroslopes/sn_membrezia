@@ -43,6 +43,7 @@
         <record_conditions/>
         <record_selection_required>false</record_selection_required>
         <required_roles/>
+        <required_translations/>
         <required_user_role_names/>
         <requires_value>false</requires_value>
         <script_condition/>

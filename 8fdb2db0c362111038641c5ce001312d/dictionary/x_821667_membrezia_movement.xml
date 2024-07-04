@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="f3fc8674c3e2111038641c5ce00131fe" label="Movement" max_length="40" name="x_821667_membrezia_movement" text_index="true" type="collection">
-        <element active="false" label="Congregation" max_length="32" name="congregation" reference="x_821667_membrezia_congregation" type="reference"/>
-        <element active="false" label="Congregation Cult" max_length="32" name="congregation_cult" reference="x_821667_membrezia_congregation_cult" reference_qual="javascript:&quot;congregation=&quot;+current.congregation;" type="reference" use_dependent_field="true" use_reference_qualifier="advanced"/>
-        <element active="false" label="Contributor" max_length="32" name="contributor" reference="x_821667_membrezia_member" type="reference"/>
         <element label="Description" max_length="40" name="description" type="string"/>
-        <element active="false" label="Expenditure type" max_length="32" name="expenditure_type" reference="x_821667_membrezia_expenditure_type" type="reference"/>
-        <element label="Movement Date" mandatory="true" max_length="40" name="movement_date" type="glide_date"/>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element choice="1" label="Type" mandatory="true" max_length="40" name="type" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Receita" sequence="0" value="receita"/>
-                <element inactive_on_update="false" label="Despesa" sequence="1" value="despesa"/>
                 <element inactive_on_update="false" label="Dizimo" sequence="2" value="dizimo"/>
                 <element inactive_on_update="false" label="Oferta" sequence="3" value="oferta"/>
+                <element inactive_on_update="false" label="Despesa" sequence="1" value="despesa"/>
+                <element inactive_on_update="false" label="Receita" sequence="0" value="receita"/>
             </choice>
         </element>
+        <element active="false" label="Expenditure type" max_length="32" name="expenditure_type" reference="x_821667_membrezia_expenditure_type" type="reference"/>
+        <element label="Movement Date" mandatory="true" max_length="40" name="movement_date" type="glide_date"/>
         <element label="Value" mandatory="true" max_length="40" name="value" type="decimal"/>
+        <element active="false" label="Congregation Cult" max_length="32" name="congregation_cult" reference="x_821667_membrezia_congregation_cult" reference_qual="javascript:&quot;congregation=&quot;+current.congregation;" type="reference" use_dependent_field="true" use_reference_qualifier="advanced"/>
+        <element active="false" label="Congregation" max_length="32" name="congregation" reference="x_821667_membrezia_congregation" type="reference"/>
+        <element active="false" label="Contributor" max_length="32" name="contributor" reference="x_821667_membrezia_member" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <index name="index">
             <element name="congregation"/>
         </index>

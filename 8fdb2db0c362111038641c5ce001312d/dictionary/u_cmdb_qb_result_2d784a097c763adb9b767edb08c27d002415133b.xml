@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="ignore_baseline=true" db_object_id="aa45b25797cc4210cbf53e2e6253af28" extends="cmdb_qb_result_base" label="Insight - Non-cloud Kubernetes Cluster-Query Results" max_length="40" name="u_cmdb_qb_result_2d784a097c763adb9b767edb08c27d002415133b" type="collection">
+        <element attributes="encode_utf8=false" label="Kubernetes Cluster 1" max_length="32" name="x_821667_membrezia_u_kubernetes_cluster_1" reference="cmdb_ci_kubernetes_cluster" reference_cascade_rule="none" type="reference"/>
+        <element attributes="encode_utf8=false" label="Kubernetes Cluster 1_Logical Datacenter 1" max_length="32" name="x_821667_membrezia_u_rel_kubernetes_cluster_1_logical_datacenter_1" reference="cmdb_rel_ci" reference_cascade_rule="none" type="reference"/>
+        <element attributes="encode_utf8=false" label="Logical Datacenter 1" max_length="32" name="x_821667_membrezia_u_logical_datacenter_1" reference="cmdb_ci_logical_datacenter" reference_cascade_rule="none" type="reference"/>
+    </element>
+</database>

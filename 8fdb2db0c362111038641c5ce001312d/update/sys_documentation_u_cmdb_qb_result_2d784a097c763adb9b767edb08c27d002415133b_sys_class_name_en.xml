@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sys_class_name" label="Sys class name" language="en" table="u_cmdb_qb_result_2d784a097c763adb9b767edb08c27d002415133b">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <help/>
+            <hint/>
+            <label>Sys class name</label>
+            <language>en</language>
+            <name>u_cmdb_qb_result_2d784a097c763adb9b767edb08c27d002415133b</name>
+            <plural>Sys class names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-04 20:00:04</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sys class name</sys_name>
+            <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+            <sys_update_name>sys_documentation_u_cmdb_qb_result_2d784a097c763adb9b767edb08c27d002415133b_sys_class_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-04 20:00:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

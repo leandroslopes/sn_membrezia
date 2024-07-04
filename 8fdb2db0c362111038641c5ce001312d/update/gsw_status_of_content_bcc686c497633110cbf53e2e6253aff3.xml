@@ -7,19 +7,19 @@
         <more_info_visited>false</more_info_visited>
         <previous_status>0</previous_status>
         <progress>0</progress>
-        <related_log_entry display_value="2023-12-31 14:45:07">a5c60ac497633110cbf53e2e6253af73</related_log_entry>
+        <related_log_entry display_value="2024-02-04 15:33:04">41616edf97884210cbf53e2e6253af31</related_log_entry>
         <status>0</status>
         <sys_class_name>gsw_status_of_content</sys_class_name>
         <sys_created_by>leandro.lopes</sys_created_by>
         <sys_created_on>2023-12-31 17:45:04</sys_created_on>
         <sys_id>bcc686c497633110cbf53e2e6253aff3</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>32</sys_mod_count>
         <sys_name>0</sys_name>
         <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
         <sys_update_name>gsw_status_of_content_bcc686c497633110cbf53e2e6253aff3</sys_update_name>
-        <sys_updated_by>leandro.lopes</sys_updated_by>
-        <sys_updated_on>2023-12-31 17:45:07</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-04 18:33:04</sys_updated_on>
     </gsw_status_of_content>
 </record_update>

@@ -16,6 +16,7 @@
         <logo>7fdb6dbcc322111038641c5ce0013107</logo>
         <menu/>
         <name>Membrezia</name>
+        <package_json/>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>

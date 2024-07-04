@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="53fa077de821211076da10591ad28748" label="Model Category" max_length="40" name="cmdb_model_category" type="collection">
+    <element audit="true" db_object_id="53fa077de821211076da10591ad28748" label="Categoria do modelo" max_length="40" name="cmdb_model_category" type="collection">
         <element attributes="base_start=true,includeNone=true,show_table_names_on_label=true,tableChoicesScript=sn_install_base.AssetIBIntegrationUtils" choice="1" hint="Items of this category will be represented by an Install base item of this class" label="Install base item class" max_length="80" name="install_base_item_class" type="table_name">
             <choice/>
         </element>

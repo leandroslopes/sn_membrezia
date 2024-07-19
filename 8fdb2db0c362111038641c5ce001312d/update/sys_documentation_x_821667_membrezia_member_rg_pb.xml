@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="rg" label="RG" language="pb" table="x_821667_membrezia_member">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>rg</element>
+            <help/>
+            <hint/>
+            <label>RG</label>
+            <language>pb</language>
+            <name>x_821667_membrezia_member</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>leandro.lopes</sys_created_by>
+            <sys_created_on>2024-07-12 17:08:55</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>RG</sys_name>
+            <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
+            <sys_update_name>sys_documentation_x_821667_membrezia_member_rg_pb</sys_update_name>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2024-07-12 17:08:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

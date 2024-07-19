@@ -7,86 +7,86 @@
         <label>Link to destination Relay (New Home default)</label>
         <props>[
     {
-        "name": "route",
         "fieldType": "string",
         "interfaceApiName": "global.route",
-        "label": "Route type"
+        "label": "Tipo de rota",
+        "name": "route"
     },
     {
-        "name": "fields",
         "fieldType": "json",
         "interfaceApiName": "global.route",
-        "label": "Route fields"
+        "label": "Campos de rota",
+        "name": "fields"
     },
     {
-        "name": "params",
         "fieldType": "json",
         "interfaceApiName": "global.route",
-        "label": "Optionals parameters"
+        "label": "Parâmetros opcionais",
+        "name": "params"
     },
     {
-        "name": "redirect",
         "fieldType": "boolean",
         "interfaceApiName": null,
-        "label": "Remove previous URL from browser history"
+        "label": "Remover URL anterior do histórico do navegador",
+        "name": "redirect"
     },
     {
-        "name": "passiveNavigation",
         "fieldType": "boolean",
         "interfaceApiName": null,
-        "label": "Load in background (advanced)"
+        "label": "Carregar em segundo plano (avançado)",
+        "name": "passiveNavigation"
     },
     {
-        "name": "title",
         "fieldType": "string",
         "interfaceApiName": null,
-        "label": "Title (advanced)"
+        "label": "Título (avançado)",
+        "name": "title"
     },
     {
-        "name": "multiInstField",
         "fieldType": "string",
         "interfaceApiName": null,
-        "label": "Multi-instance field (advanced)"
+        "label": "Campo de várias instâncias (avançado)",
+        "name": "multiInstField"
     },
     {
-        "name": "targetRoute",
         "fieldType": "string",
         "interfaceApiName": null,
-        "label": "Sub-navigation route (advanced)"
+        "label": "Rota de sub-navegação (avançado)",
+        "name": "targetRoute"
     },
     {
-        "name": "external",
         "fieldType": "json",
         "interfaceApiName": "global.route",
-        "label": "External URL object"
+        "label": "Objeto de URL externo",
+        "name": "external"
     }
 ]</props>
         <required_translations>[ {
-  "message" : "External URL object",
+  "message" : "Campo de várias instâncias (avançado)",
   "comment" : ""
 }, {
-  "message" : "Load in background (advanced)",
+  "message" : "Campos de rota",
   "comment" : ""
 }, {
-  "message" : "Multi-instance field (advanced)",
+  "message" : "Carregar em segundo plano (avançado)",
   "comment" : ""
 }, {
-  "message" : "Optionals parameters",
+  "message" : "Objeto de URL externo",
   "comment" : ""
 }, {
-  "message" : "Remove previous URL from browser history",
+  "message" : "Parâmetros opcionais",
   "comment" : ""
 }, {
-  "message" : "Route fields",
+  "message" : "Remover URL anterior do histórico do navegador",
   "comment" : ""
 }, {
-  "message" : "Route type",
+  "message" : "Rota de sub-navegação (avançado)",
   "comment" : ""
 }, {
-  "message" : "Sub-navigation route (advanced)",
+  "message" : "Tipo de rota",
   "comment" : ""
 }, {
-  "message" : "Title (advanced)",
+  "message" : "Título (avançado)",
   "comment" : ""
 } ]</required_translations>
         <schema_version>1.0.0</schema_version>
@@ -94,14 +94,27 @@
         <sys_created_by>leandro.lopes</sys_created_by>
         <sys_created_on>2023-12-14 00:46:29</sys_created_on>
         <sys_id>029ab29a3e4ff5105d60fb58c2084fbb</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Link to destination Relay (New Home default)</sys_name>
         <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
         <sys_update_name>sys_ux_event_029ab29a3e4ff5105d60fb58c2084fbb</sys_update_name>
         <sys_updated_by>leandro.lopes</sys_updated_by>
-        <sys_updated_on>2023-12-14 00:46:29</sys_updated_on>
+        <sys_updated_on>2024-07-12 18:43:46</sys_updated_on>
     </sys_ux_event>
     <sys_translated_text action="delete_multiple" query="documentkey=029ab29a3e4ff5105d60fb58c2084fbb"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>029ab29a3e4ff5105d60fb58c2084fbb</documentkey>
+        <fieldname>description</fieldname>
+        <language>pb</language>
+        <sys_created_by>leandro.lopes</sys_created_by>
+        <sys_created_on>2024-07-12 17:50:43</sys_created_on>
+        <sys_id>877c4d22979bc218cbf53e2e6253afed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>leandro.lopes</sys_updated_by>
+        <sys_updated_on>2024-07-12 17:50:43</sys_updated_on>
+        <tablename>sys_ux_event</tablename>
+        <value/>
+    </sys_translated_text>
 </record_update>

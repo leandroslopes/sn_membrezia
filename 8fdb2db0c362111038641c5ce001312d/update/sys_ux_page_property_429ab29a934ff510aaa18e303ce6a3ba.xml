@@ -13,17 +13,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>global</sys_domain_path>
         <sys_id>429ab29a934ff510aaa18e303ce6a3ba</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>view</sys_name>
         <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
         <sys_update_name>sys_ux_page_property_429ab29a934ff510aaa18e303ce6a3ba</sys_update_name>
         <sys_updated_by>leandro.lopes</sys_updated_by>
-        <sys_updated_on>2023-12-14 00:46:30</sys_updated_on>
+        <sys_updated_on>2024-07-12 15:02:16</sys_updated_on>
         <type>string</type>
         <unique_name>x_821667_membrezia.ca9ab29aa94ff510043a9121211cb9c9.root.view</unique_name>
-        <value>workspace-membrezia-1</value>
+        <value>Workspace-Membrezia-0</value>
     </sys_ux_page_property>
     <sys_translated_text action="delete_multiple" query="documentkey=429ab29a934ff510aaa18e303ce6a3ba"/>
 </record_update>

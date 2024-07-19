@@ -4,13 +4,13 @@
             <element>movement_date</element>
             <position>0</position>
             <sys_created_by>leandro.lopes</sys_created_by>
-            <sys_created_on>2023-12-28 00:55:51</sys_created_on>
-            <sys_id>88038bfa975f3510cbf53e2e6253afd5</sys_id>
+            <sys_created_on>2024-07-12 19:56:03</sys_created_on>
+            <sys_id>8f29edae979fc218cbf53e2e6253afc0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_821667_membrezia_movement" sys_domain="global" view="Default view">ca0d4234c3e2111038641c5ce0013163</sys_ui_section>
             <sys_updated_by>leandro.lopes</sys_updated_by>
-            <sys_updated_on>2023-12-28 00:55:51</sys_updated_on>
+            <sys_updated_on>2024-07-12 19:56:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>description</element>
             <position>1</position>
             <sys_created_by>leandro.lopes</sys_created_by>
-            <sys_created_on>2023-12-28 00:55:51</sys_created_on>
-            <sys_id>48038bfa975f3510cbf53e2e6253afd6</sys_id>
+            <sys_created_on>2024-07-12 19:56:03</sys_created_on>
+            <sys_id>c32921ee979fc218cbf53e2e6253af25</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_821667_membrezia_movement" sys_domain="global" view="Default view">ca0d4234c3e2111038641c5ce0013163</sys_ui_section>
             <sys_updated_by>leandro.lopes</sys_updated_by>
-            <sys_updated_on>2023-12-28 00:55:51</sys_updated_on>
+            <sys_updated_on>2024-07-12 19:56:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>value</element>
             <position>2</position>
             <sys_created_by>leandro.lopes</sys_created_by>
-            <sys_created_on>2023-12-28 00:55:51</sys_created_on>
-            <sys_id>40038bfa975f3510cbf53e2e6253afd7</sys_id>
+            <sys_created_on>2024-07-12 19:56:03</sys_created_on>
+            <sys_id>cb2921ee979fc218cbf53e2e6253af25</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_821667_membrezia_movement" sys_domain="global" view="Default view">ca0d4234c3e2111038641c5ce0013163</sys_ui_section>
             <sys_updated_by>leandro.lopes</sys_updated_by>
-            <sys_updated_on>2023-12-28 00:55:51</sys_updated_on>
+            <sys_updated_on>2024-07-12 19:56:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,41 @@
             <element>type</element>
             <position>3</position>
             <sys_created_by>leandro.lopes</sys_created_by>
-            <sys_created_on>2023-12-28 00:55:51</sys_created_on>
-            <sys_id>48038bfa975f3510cbf53e2e6253afd7</sys_id>
+            <sys_created_on>2024-07-12 19:56:03</sys_created_on>
+            <sys_id>c32921ee979fc218cbf53e2e6253af26</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_821667_membrezia_movement" sys_domain="global" view="Default view">ca0d4234c3e2111038641c5ce0013163</sys_ui_section>
             <sys_updated_by>leandro.lopes</sys_updated_by>
-            <sys_updated_on>2023-12-28 00:55:51</sys_updated_on>
+            <sys_updated_on>2024-07-12 19:56:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>congregation</element>
+            <position>4</position>
+            <sys_created_by>leandro.lopes</sys_created_by>
+            <sys_created_on>2024-07-12 19:56:03</sys_created_on>
+            <sys_id>cb2921ee979fc218cbf53e2e6253af26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_821667_membrezia_movement" sys_domain="global" view="Default view">ca0d4234c3e2111038641c5ce0013163</sys_ui_section>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2024-07-12 19:56:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>congregation_cult</element>
+            <position>5</position>
+            <sys_created_by>leandro.lopes</sys_created_by>
+            <sys_created_on>2024-07-12 19:56:03</sys_created_on>
+            <sys_id>c32921ee979fc218cbf53e2e6253af27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_821667_membrezia_movement" sys_domain="global" view="Default view">ca0d4234c3e2111038641c5ce0013163</sys_ui_section>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2024-07-12 19:56:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

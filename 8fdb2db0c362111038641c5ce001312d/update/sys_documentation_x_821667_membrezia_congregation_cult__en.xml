@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Congregation Cult" language="en" table="x_821667_membrezia_congregation_cult">
+    <sys_documentation element="" label="Congregation cult" language="en" table="x_821667_membrezia_congregation_cult">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>Congregation Cult</label>
+            <label>Congregation cult</label>
             <language>en</language>
             <name>x_821667_membrezia_congregation_cult</name>
-            <plural>Congregation Cults</plural>
+            <plural>Congregation cults</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-10-12 14:55:10</sys_created_on>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Congregation Cult</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Congregation cult</sys_name>
             <sys_package display_value="Membrezia" source="x_821667_membrezia">8fdb2db0c362111038641c5ce001312d</sys_package>
             <sys_policy/>
             <sys_scope display_value="Membrezia">8fdb2db0c362111038641c5ce001312d</sys_scope>
             <sys_update_name>sys_documentation_x_821667_membrezia_congregation_cult__en</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-10-12 14:55:10</sys_updated_on>
+            <sys_updated_by>leandro.lopes</sys_updated_by>
+            <sys_updated_on>2024-07-12 17:29:44</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
